@@ -6,7 +6,7 @@ CSSBOLER est une librairie CSS3 entièrement française.
 ```
 
 - [Documentation](#doc)
-  * [Ajouter à votre projet](#Ajouter-a-votre-projet)
+  * [Ajouter à votre projet](#Ajouter à votre projet)
   * [Installation](#installation)
 
-## Ajouter-a-votre-projet
+## Ajouter à votre projet
