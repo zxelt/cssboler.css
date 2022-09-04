@@ -4,7 +4,7 @@ CSSBOLER librairie CSS3 100% française !
 
 - [Documentation](#doc)
   * [Installation](#Installation)
-  * [Installation](#Bases)
+  * [Bases](#Bases)
 
 ## Installation
 
