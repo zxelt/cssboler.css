@@ -1,12 +1,13 @@
 # CSSBOLER
-CSSBOLER est une librairie CSS3 entièrement française.
+CSSBOLER librairie CSS3 100% française !
+
+
+- [Documentation](#doc)
+  * [Installation](#Installation)
+  * [Installation](#llation)
+
+## Installation
 
 ``` html
 <link rel="stylesheet" href="https://raw.githubusercontent.com/zxelt/CSSBOLER/main/cssbouler.css">
 ```
-
-- [Documentation](#doc)
-  * [Ajouter à votre projet](#Installation)
-  * [Installation](#llation)
-
-## Installation
