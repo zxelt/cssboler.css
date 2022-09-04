@@ -9,4 +9,4 @@ CSSBOLER est une librairie CSS3 entièrement française.
   * [Ajouter à votre projet](#Ajouter-a-votre-projet)
   * [Installation](#installation)
 
-## #Ajouter-a-votre-projet
+## Ajouter-a-votre-projet
