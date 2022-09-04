@@ -14,3 +14,6 @@ CSSBOLER librairie CSS3 100% française !
 
 ## Polices
 
+``` html
+<h1 class="Impact">Bonjour tout le monde !</h1>
+```
