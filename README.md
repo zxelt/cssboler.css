@@ -4,10 +4,13 @@ CSSBOLER librairie CSS3 100% française !
 
 - [Documentation](#doc)
   * [Installation](#Installation)
-  * [Installation](#llation)
+  * [Installation](#Bases)
 
 ## Installation
 
 ``` html
 <link rel="stylesheet" href="https://raw.githubusercontent.com/zxelt/CSSBOLER/main/cssbouler.css">
 ```
+
+## Bases
+
