@@ -1,8 +1,10 @@
 # CSSBOLER
 CSSBOLER librairie CSS3 100% française !
 
-    <a href="[https://github.com/badges/shields/graphs/contributors](https://github.com/zxelt)" alt="Contributors">
+<p align="center">
+    <a href="https://github.com/badges/shields/graphs/contributors" alt="Contributors">
         <img src="[https://img.shields.io/github/contributors/badges/shields](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)" /></a>
+</p>
 
 
 - [Documentation](#doc)
