@@ -4,7 +4,7 @@ CSSBOLER librairie CSS3 100% française !
 
 - [Documentation](#doc)
   * [Installation](#Installation)
-  * [Bases](#Bases)
+  * [Polices](#Polices)
 
 ## Installation
 
@@ -12,5 +12,5 @@ CSSBOLER librairie CSS3 100% française !
 <link rel="stylesheet" href="https://raw.githubusercontent.com/zxelt/CSSBOLER/main/cssbouler.css">
 ```
 
-## Bases
+## Polices
 
