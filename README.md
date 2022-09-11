@@ -15,3 +15,10 @@ CSSBOLER librairie CSS3 100% française !
 ## Formes
 
 <img src="https://www.zupimages.net/up/22/36/9c6b.png" alt="Formes" title="Formes">
+
+``` html
+<div class="ovale"></div>
+<div class="rectangle"></div>
+<div class="carré"></div>
+<div class="rond"></div>
+```
