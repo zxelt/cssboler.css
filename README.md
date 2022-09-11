@@ -5,7 +5,7 @@ CSSBOLER librairie CSS3 100% française !
 
 - [Documentation](#doc)
   * [Installation](#Installation)
-    * [Formes](#Formes)
+  * [Formes](#Formes)
 
 ## Installation
 
