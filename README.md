@@ -4,8 +4,8 @@ CSSBOLER librairie CSS3 100% française !
 
 
 - [Documentation](#doc)
-  * [Formes](#Formes)
   * [Bouton](#Bouton)
+  * [Formes](#Formes)
 
 
 ## Bouton
