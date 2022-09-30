@@ -12,7 +12,7 @@ CSSBOLER librairie CSS3 100% française !
 
 ## Texte
 ``` html
-<h1 class="Couleur Policedecriture">Hello </h1>
+<h1 class="Couleur Policedecriture">Hello World</h1>
 ```
 <img src="https://www.zupimages.net/up/22/39/trgo.png">
 
