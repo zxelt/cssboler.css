@@ -7,6 +7,15 @@ CSSBOLER librairie CSS3 100% française !
   * [Formes](#Formes)
   * [Bouton](#Bouton)
 
+
+## Bouton
+``` html
+<button class="button-simple-hover">Your Text Here</button>
+<button class="hover-btn">Hello World</button>
+```
+
+<img src="https://www.zupimages.net/up/22/36/jdji.png" alt="Formes" title="Boutons">
+
 ## Formes
 
 ``` html
@@ -17,13 +26,3 @@ CSSBOLER librairie CSS3 100% française !
 ```
 
 <img src="https://www.zupimages.net/up/22/36/9c6b.png" alt="Formes" title="Formes">
-
-## Bouton
-``` html
-<button class="button-simple-hover">Your Text Here</button>
-<button class="hover-btn">Hello World</button>
-```
-
-<img src="https://www.zupimages.net/up/22/36/jdji.png" alt="Formes" title="Boutons">
-
-
